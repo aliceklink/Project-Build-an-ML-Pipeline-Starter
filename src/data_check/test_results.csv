@@ -1,0 +1,9 @@
+column,kl_divergence,passed
+neighbourhood_group,0.0,True
+room_type,0.0,True
+price,0.0,True
+minimum_nights,0.0,True
+number_of_reviews,0.0,True
+reviews_per_month,0.0,True
+calculated_host_listings_count,0.0,True
+availability_365,0.0,True
